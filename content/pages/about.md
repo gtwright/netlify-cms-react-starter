@@ -34,7 +34,8 @@ section2: |-
   vestibulum.
 
   The image below will have a `srcset` attribute generated:
-
-  ![Tim Marshall](/images/uploads/tim-marshall-155597.jpg)
+meta:
+  description: This is the about page
+  title: About
 ---
 
