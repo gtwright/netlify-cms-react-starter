@@ -8,4 +8,4 @@ socialMediaCard:
   twitterCreatorAccount: '@opusaffair'
   twitterSiteAccount: ''
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
-enableServiceWorker: false
+enableServiceWorker: true
