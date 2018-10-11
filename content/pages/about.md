@@ -36,6 +36,6 @@ section2: |-
   The image below will have a `srcset` attribute generated:
 meta:
   description: This is the about page
-  title: About
+  title: About Page
 ---
 
