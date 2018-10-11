@@ -10,6 +10,7 @@ excerpt: >-
   pellentesque, lacinia risus ut, imperdiet eros.
 categories:
   - category: News
+  - category: Updates
 meta:
   canonicalLink: ''
   description: ''
